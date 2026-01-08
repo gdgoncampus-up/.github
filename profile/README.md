@@ -2,7 +2,7 @@
 
 ## About Us
 
-Google Developer Groups (GDG) on Campus UP is a student-led community for developers interested in Google technologies and open-source development. We bring together students from the University of Pretoria who are passionate about learning, sharing knowledge, and building innovative solutions.
+Google Developer Group on Campus University of Primorska is a student-led community for developers interested in Google technologies and open-source development. We bring together students from the University of Primorska who are passionate about learning, sharing knowledge, and building innovative solutions.
 
 ## What We Do
 
