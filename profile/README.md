@@ -1,4 +1,4 @@
-# Welcome to GDG on Campus UP! 👋
+# Welcome to GDG on Campus University of Primorska! 👋
 
 ## About Us
 
